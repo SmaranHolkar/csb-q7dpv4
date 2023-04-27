@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://smaranholkar.github.io/csb-q7dpv4/static/css/main.894885b0.css",
+    "main.js": "https://smaranholkar.github.io/csb-q7dpv4/static/js/main.e5457533.js",
+    "index.html": "https://smaranholkar.github.io/csb-q7dpv4/index.html",
+    "main.894885b0.css.map": "https://smaranholkar.github.io/csb-q7dpv4/static/css/main.894885b0.css.map",
+    "main.e5457533.js.map": "https://smaranholkar.github.io/csb-q7dpv4/static/js/main.e5457533.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.894885b0.css",
+    "static/js/main.e5457533.js"
+  ]
+}
